@@ -78,5 +78,6 @@ This will start a local server at:
 
 👉 http://localhost:8501
 
+![Agentic RAG Chatbot Demo](firstpage.png)
 
 
